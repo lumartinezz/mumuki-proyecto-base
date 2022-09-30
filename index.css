@@ -1,0 +1,52 @@
+h1,h2{
+    font-size: 50px;
+    font-family: Monserrat;
+}
+
+.colorA1{
+    background-color:#e1bee7 ;
+}
+.colorA2{
+    background-color:#ba68c8 ;
+}
+.colorA3{
+    background-color:#9c27b0 ;
+}
+.colorA4{
+    background-color: #7b1fa2;
+}
+.colorA5{
+    background-color:#4a148c ;
+}
+
+.colorB1{
+    background-color: rgb(244, 143, 177);
+}
+.colorB2{
+    background-color: rgb(236, 64, 122) ;
+}
+.colorB3{
+    background-color: rgb(216, 27, 96);
+}
+.colorB4{
+    background-color: rgb(173, 20, 87);
+}
+.colorB5{
+    background-color:rgb(136, 14, 79) ;
+}
+
+.colorC1{
+    background-color:hsl(231, 44%, 74%);
+}
+.colorC2{
+    background-color:hsl(231, 44%, 56%);
+}
+.colorC3{
+    background-color:hsl(232, 50%, 45%);
+}
+.colorC4{
+    background-color:hsl(233, 57%, 37%) ;
+}
+.colorC5{
+    background-color:hsl(235, 66%, 30%) ;
+}
