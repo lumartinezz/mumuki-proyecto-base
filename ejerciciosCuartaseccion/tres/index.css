@@ -1,0 +1,107 @@
+.aleita{ 
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+}
+
+.frargentina{
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+}
+
+.italia{
+    margin-right: 45px;
+    width: 400px;
+    display: flex;
+}
+
+.alemania{
+    margin-left:45px;
+    display: block;
+    width: 400px;
+}
+
+.verde{
+    background-color: green;
+    width: 100px;
+    height: 200px;
+    color: green;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.blanca{
+    background-color: white;
+    width: 100px;
+    height: 200px;
+    color: white;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.roja{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    color: red;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+
+
+.negro{
+    background-color: black;
+    width: 300px;
+    height: 66.66px;
+    color: black;
+}
+
+.rojo{
+    background-color: red;
+    width: 300px;
+    height: 66.66px;
+    color: red; 
+    margin-left: 0px; 
+}
+
+.amarillo{
+    background-color: yellow;
+    width: 300px;
+    height: 66.66px;
+    color: yellow;
+    margin-bottom: 50px;
+}
+
+
+
+.azul{
+    background-color: blue;
+    width: 100px;
+    height: 200px;
+    color: blue;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+.francia{
+    margin-right: 45px;
+}
+
+.argentina{
+    margin-left: 45px;
+}
+.celeste{
+    background-color: lightskyblue;
+    width: 300px;
+    height: 66.66px;
+    color: lightskyblue;
+}
+
+.blanco{
+    background-color:white;
+    width: 300px;
+    height: 66.66px;
+    color:white;
+}
